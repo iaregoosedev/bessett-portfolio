@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,qBAAsB,CACtB,QAAS,CACT,SAAU,CACV,6BACJ,CAEA,oBACI,YACJ","file":"main.cadf28d6.chunk.css","sourcesContent":["* {\n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;\n    font-family: 'Jura', sans-serif;\n}\n\n::-webkit-scrollbar {\n    display: none;\n}"]}
